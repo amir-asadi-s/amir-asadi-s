@@ -18,9 +18,9 @@ Interests on AI, data analytics, data science, machine learning and related fiel
 
 ---
 
-### Here is my [Data Science portfolio](https://github.com/)
+### Here is my [Data Science portfolio](https://github.com/amir-asadi-s/DataScience)
 
-### Here is my [Power Bi projects](https://github.com/)
+### Here is my [Power Bi projects](https://github.com/amir-asadi-s/PowerBI)
 
 ---
 
