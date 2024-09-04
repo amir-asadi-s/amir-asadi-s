@@ -49,4 +49,13 @@ As a data-driven professional, I have over 15 years of experience in the oil, ga
 
 ---
 
+<<<<<<< HEAD
 Thank you for visiting my profile! Feel free to connect with me on LinkedIn, explore my projects, or reach out via email.
+=======
+### Here is my [Data Science portfolio](https://github.com/amir-asadi-s/DataScience)
+
+### Here is my [Power Bi projects](https://github.com/amir-asadi-s/PowerBI)
+
+---
+
+>>>>>>> 51ae285ff0d14f3c4cf3e0dd6001628b333480f3
