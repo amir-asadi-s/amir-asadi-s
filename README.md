@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Data Analytics with a background in process engineering, now focusing on AI, data science, and machine learning. Currently expanding my expertise in Power BI, SQL, and Python, I am passionate about uncovering insights and driving data-driven decisions.
+I am a Data Analytics with a background in process engineering, now focusing on AI, data science, and machine learning. I am passionate about uncovering insights and driving data-driven decisions.
 
 ---
 
