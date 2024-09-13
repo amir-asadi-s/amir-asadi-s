@@ -27,12 +27,12 @@ With over 15 years of experience in the oil, gas, and petrochemical industries, 
 
 ### 📁 Projects
 
-- **[Data Science Portfolio](https://github.com/actual-link-to-your-portfolio)**:
+- **[Data Science Portfolio](https://github.com/amir-asadi-s/DataScience)**:
   - Predictive Modeling
   - Data Visualization
   - Market Analysis
 
-- **[Power BI Projects](https://github.com/actual-link-to-your-powerbi-projects)**:
+- **[Power BI Projects](https://github.com/amir-asadi-s/PowerBI)**:
   - Sales Analysis Dashboard
   - Operational Efficiency Dashboard
 
