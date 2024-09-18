@@ -2,27 +2,21 @@
 
 ## About Me
 
-I am a Data Analytics with a background in process engineering, now focusing on AI, data science, and machine learning. I am passionate about uncovering insights and driving data-driven decisions.
-
----
-
-### 💼 Professional Summary
-
-With over 15 years of experience in the oil, gas, and petrochemical industries, I have transitioned into data science and analytics. I specialize in predictive modeling, data visualization, and statistical analysis, leveraging my extensive experience to enhance data quality and create actionable insights.
+I am a data-driven professional with a strong foundation in data science, analytics. Proficient in Python, R, SQL, and Power BI, with expertise in leveraging machine learning, statistical analysis, and big data technologies to drive business decisions. 
 
 ---
 
 ### 🛠️ Skills
 
-- **Programming Languages**: Python, R
-- **Data Visualization**: Power BI, ggplot2 (R), Matplotlib (Python)
-- **Data Manipulation**: dplyr (R), Pandas (Python)
-- **Numerical Computation**: NumPy (Python)
-- **Machine Learning**:
-  - **R**: caret, glmnet, randomForest, xgboost, gbm
-  - **Python**: Scikit-learn, TensorFlow
-- **Other Tools**: Excel (Advanced), DAX, Git
-
+- **Programming Languages**: Python, R, SQL  
+- **Data Visualization**: Power BI, ggplot2 (R), Matplotlib (Python)  
+- **Data Manipulation**: Pandas (Python), dplyr (R), SQL  
+- **Machine Learning & AI**:  
+  - **Python**: scikit-learn, TensorFlow, Keras, XGBoost  
+  - **R**: caret, randomForest, glmnet  
+- **Data Engineering**: ETL processes, SQL optimization  
+- **Statistical Analysis**: Hypothesis testing, regression analysis, time series forecasting  
+- **Other Tools**: Git, Excel (Advanced), DAX, API integration
 ---
 
 ### 📁 Projects
