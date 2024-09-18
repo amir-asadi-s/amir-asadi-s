@@ -11,12 +11,15 @@ I am a data-driven professional with a strong foundation in data science, analyt
 - **Programming Languages**: Python, R, SQL  
 - **Data Visualization**: Power BI, ggplot2 (R), Matplotlib (Python)  
 - **Data Manipulation**: Pandas (Python), dplyr (R), SQL  
+- **Big Data & Cloud**: Hadoop, Spark, AWS, Azure  
 - **Machine Learning & AI**:  
   - **Python**: scikit-learn, TensorFlow, Keras, XGBoost  
   - **R**: caret, randomForest, glmnet  
 - **Data Engineering**: ETL processes, SQL optimization  
 - **Statistical Analysis**: Hypothesis testing, regression analysis, time series forecasting  
 - **Other Tools**: Git, Excel (Advanced), DAX, API integration
+
+  
 ---
 
 ### 📁 Projects
