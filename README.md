@@ -1,30 +1,23 @@
-# Hi there, I'm Amir Asadi 👋
+# Hi there, I'm Amir 👋
 
 ## About Me
 
-I am a data-driven professional with a strong foundation in data science, analytics. Proficient in Python, R, SQL, and Power BI, with expertise in leveraging machine learning, statistical analysis, and big data technologies to drive business decisions. 
+Experienced Data Analyst and Data Scientist with a background in the oil, gas, and petrochemical industries, skilled in transforming complex data into actionable insights.
 
 ---
 
 ### 🛠️ Skills
 
-- **Programming Languages**: Python, R, SQL  
-- **Data Visualization**: Power BI, ggplot2 (R), Matplotlib (Python)  
-- **Data Manipulation**: Pandas (Python), dplyr (R), SQL  
-- **Big Data & Cloud**: Hadoop, Spark, AWS, Azure  
-- **Machine Learning & AI**:  
-  - **Python**: scikit-learn, TensorFlow, Keras, XGBoost  
-  - **R**: caret, randomForest, glmnet  
-- **Data Engineering**: ETL processes, SQL optimization  
-- **Statistical Analysis**: Hypothesis testing, regression analysis, time series forecasting  
-- **Other Tools**: Git, Excel (Advanced), DAX, API integration
-
-  
+- **Data Analysis**  
+- **Machine Learning**
+- **Data Visualization**  
+- **Statistical Analysis** 
+- **Market Research**  
 ---
 
 ### 📁 Projects
 
-- **[Data Science Portfolio](https://github.com/amir-asadi-s/DataScience)**:
+- **[Data Analytics / Science Portfolio](https://github.com/amir-asadi-s/DataScience)**:
   - Predictive Modeling
   - Data Visualization
   - Market Analysis
