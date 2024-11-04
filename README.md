@@ -17,7 +17,7 @@ Experienced Data Analyst and Data Scientist with a background in the oil, gas, a
 
 ### 📁 Projects
 
-- **[Data Analytics / Science Portfolio](https://github.com/amir-asadi-s/DataScience)**:
+- **[Data Analysis / Science Portfolio](https://github.com/amir-asadi-s/DataScience)**:
   - Predictive Modeling
   - Data Visualization
   - Market Analysis
