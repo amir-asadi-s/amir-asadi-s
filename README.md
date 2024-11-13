@@ -8,23 +8,19 @@ Experienced Data Analyst and Data Scientist with a background in the oil, gas, a
 
 ### 🛠️ Skills
 
+- **Market Research**  
 - **Data Analysis**  
 - **Machine Learning**
 - **Data Visualization**  
 - **Statistical Analysis** 
-- **Market Research**  
+
 ---
 
 ### 📁 Projects
 
-- **[Data Analysis / Science Portfolio](https://github.com/amir-asadi-s/DataScience)**:
-  - Predictive Modeling
-  - Data Visualization
-  - Market Analysis
+- **[Data Science](./DataScience)**:
 
-- **[Power BI Projects](https://github.com/amir-asadi-s/PowerBI)**:
-  - Sales Analysis Dashboard
-  - Operational Efficiency Dashboard
+- **[Data Analysis](./DataAnalysis)**:
 
 ---
 
