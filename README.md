@@ -18,9 +18,9 @@ Experienced Data Analyst and Data Scientist with a background in the oil, gas, a
 
 ### 📁 Projects
 
-- **[Data Science](./DataScience)**:
+- **[Data Science](https://github.com/amir-asadi-s/DataScience)**:
 
-- **[Data Analysis](./DataAnalysis)**:
+- **[Data Analysis](https://github.com/amir-asadi-s/DataAnalysis)**:
 
 ---
 
